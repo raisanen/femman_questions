@@ -2,7 +2,7 @@
     {
       "id": "nowthen_1",
       "category": "nowThen",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken bysantinsk kejsare avsattes 695 efter att ha infört en kontroversiell skatt på vin och som senare återvände till tronen 705?",
       "textEn": "Which Byzantine emperor was deposed in 695 after introducing a controversial tax on wine and later returned to the throne in 705?",
       "optionsSv": ["Justinianus II", "Konstantin IV", "Leontios", "Tiberios III"],
@@ -14,7 +14,7 @@
     {
       "id": "nowthen_2",
       "category": "nowThen",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken mongolisk khan grundade Yuan-dynastin i Kina och antog titeln Shizu?",
       "textEn": "Which Mongol khan founded the Yuan dynasty in China and adopted the title Shizu?",
       "optionsSv": ["Kublai Khan", "Genghis Khan", "Ögedei Khan", "Möngke Khan"],
@@ -26,7 +26,7 @@
     {
       "id": "nowthen_3",
       "category": "nowThen",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken fredsöverenskommelse 1555 etablerade principen \"cuius regio, eius religio\" i Tysk-romerska riket?",
       "textEn": "Which 1555 peace settlement established the principle \"cuius regio, eius religio\" in the Holy Roman Empire?",
       "optionsSv": ["Augsburgfreden", "Westfaliska freden", "Passaufreden", "Nürnbergfreden"],
@@ -38,7 +38,7 @@
     {
       "id": "nowthen_4",
       "category": "nowThen",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken svensk kung avled under mystiska omständigheter i Norge 1718, vilket ledde till att Karl XII:s syster Ulrika Eleonora besteg tronen?",
       "textEn": "Which Swedish king died under mysterious circumstances in Norway in 1718, leading to Charles XII's sister Ulrika Eleonora ascending the throne?",
       "optionsSv": ["Karl XII", "Karl XI", "Gustav III", "Gustav IV Adolf"],
@@ -50,7 +50,7 @@
     {
       "id": "nowthen_5",
       "category": "nowThen",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken persisk shah av Safavid-dynastin förlorade Tabriz till osmanerna 1514 i slaget vid Chaldiran?",
       "textEn": "Which Persian shah of the Safavid dynasty lost Tabriz to the Ottomans in 1514 at the Battle of Chaldiran?",
       "optionsSv": ["Ismail I", "Tahmasp I", "Abbas I", "Suleiman I"],
@@ -62,7 +62,7 @@
     {
       "id": "nowthen_6",
       "category": "nowThen",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken fransk revolutionär ledde jakobinerna under skräckväldet och avrättades 1794?",
       "textEn": "Which French revolutionary led the Jacobins during the Reign of Terror and was executed in 1794?",
       "optionsSv": ["Maximilien Robespierre", "Georges Danton", "Jean-Paul Marat", "Louis Antoine de Saint-Just"],
@@ -74,7 +74,7 @@
     {
       "id": "nowthen_7",
       "category": "nowThen",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken bysantinsk general återerövrade Italien från ostrogoterna på 500-talet men dog innan han kunde konsolidera erövringarna?",
       "textEn": "Which Byzantine general reconquered Italy from the Ostrogoths in the 6th century but died before he could consolidate the conquests?",
       "optionsSv": ["Belisarius", "Narses", "Justinianus I", "Heraclius"],
@@ -86,7 +86,7 @@
     {
       "id": "nowthen_8",
       "category": "nowThen",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken kinesisk kejsare av Ming-dynastin byggde Den förbjudna staden i Peking och skickade Zheng He på sina expeditioner?",
       "textEn": "Which Chinese emperor of the Ming dynasty built the Forbidden City in Beijing and sent Zheng He on his expeditions?",
       "optionsSv": ["Yongle", "Hongwu", "Xuande", "Jiajing"],
@@ -98,7 +98,7 @@
     {
       "id": "nowthen_9",
       "category": "nowThen",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken engelsk kung förlorade sina franska besittningar utom Calais efter hundraårskriget och led av psykisk sjukdom?",
       "textEn": "Which English king lost his French possessions except Calais after the Hundred Years' War and suffered from mental illness?",
       "optionsSv": ["Henrik VI", "Henrik V", "Rikard III", "Eduard IV"],
@@ -110,7 +110,7 @@
     {
       "id": "nowthen_10",
       "category": "nowThen",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken rysk tsar avsattes 1762 av sin fru, som senare blev känd som Katarina den stora?",
       "textEn": "Which Russian tsar was deposed in 1762 by his wife, who later became known as Catherine the Great?",
       "optionsSv": ["Peter III", "Peter II", "Ivan VI", "Paul I"],
@@ -122,7 +122,7 @@
     {
       "id": "nowthen_11",
       "category": "nowThen",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken spansk conquistador erövrade Inkariket och avrättade Atahualpa 1533?",
       "textEn": "Which Spanish conquistador conquered the Inca Empire and executed Atahualpa in 1533?",
       "optionsSv": ["Francisco Pizarro", "Hernán Cortés", "Diego de Almagro", "Pedro de Valdivia"],
@@ -134,7 +134,7 @@
     {
       "id": "nowthen_12",
       "category": "nowThen",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken ottomansk sultan erövrade Konstantinopel 1453 och avslutade därmed Bysantinska riket?",
       "textEn": "Which Ottoman sultan conquered Constantinople in 1453, thus ending the Byzantine Empire?",
       "optionsSv": ["Mehmed II", "Murad II", "Bayezid I", "Selim I"],
@@ -146,7 +146,7 @@
     {
       "id": "nowthen_13",
       "category": "nowThen",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken tysk kejsare avsattes 1806 av Napoleon, vilket formellt avslutade Tysk-romerska riket?",
       "textEn": "Which German emperor was deposed in 1806 by Napoleon, formally ending the Holy Roman Empire?",
       "optionsSv": ["Franz II", "Leopold II", "Josef II", "Karl VI"],
@@ -158,7 +158,7 @@
     {
       "id": "nowthen_14",
       "category": "nowThen",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken japansk shogun etablerade Tokugawa-shogunatet 1603 efter slaget vid Sekigahara?",
       "textEn": "Which Japanese shogun established the Tokugawa shogunate in 1603 after the Battle of Sekigahara?",
       "optionsSv": ["Tokugawa Ieyasu", "Toyotomi Hideyoshi", "Oda Nobunaga", "Tokugawa Hidetada"],
@@ -170,7 +170,7 @@
     {
       "id": "nowthen_15",
       "category": "nowThen",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken fransk kung kallas \"Solkungen\" och centraliserade makten i Frankrike under 1600-talet?",
       "textEn": "Which French king is called \"the Sun King\" and centralized power in France during the 17th century?",
       "optionsSv": ["Ludvig XIV", "Ludvig XIII", "Henrik IV", "Ludvig XV"],
@@ -182,7 +182,7 @@
     {
       "id": "ent_1",
       "category": "entertainment",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken rysk författare skrev \"Broderskap\" och \"Den döde huset\" och tillbringade fyra år i sibirisk straffkoloni?",
       "textEn": "Which Russian author wrote \"The House of the Dead\" and \"The Brothers Karamazov\" and spent four years in a Siberian penal colony?",
       "optionsSv": ["Fjodor Dostojevskij", "Leo Tolstoj", "Nikolaj Gogol", "Ivan Turgenjev"],
@@ -194,7 +194,7 @@
     {
       "id": "ent_2",
       "category": "entertainment",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken tjeckisk författare skrev \"Processen\" och \"Slottet\" och dog i tuberkulos 1924?",
       "textEn": "Which Czech author wrote \"The Trial\" and \"The Castle\" and died of tuberculosis in 1924?",
       "optionsSv": ["Franz Kafka", "Milan Kundera", "Karel Čapek", "Bohumil Hrabal"],
@@ -206,7 +206,7 @@
     {
       "id": "ent_3",
       "category": "entertainment",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken irisk författare skrev \"Ulysses\" och revolutionerade den modernistiska romanen med sin ström av medvetande-teknik?",
       "textEn": "Which Irish author wrote \"Ulysses\" and revolutionized the modernist novel with his stream of consciousness technique?",
       "optionsSv": ["James Joyce", "Samuel Beckett", "Oscar Wilde", "W.B. Yeats"],
@@ -218,7 +218,7 @@
     {
       "id": "ent_4",
       "category": "entertainment",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken fransk författare skrev \"På spaning efter den tid som flytt\" och skildrade minnet som ett centralt tema?",
       "textEn": "Which French author wrote \"In Search of Lost Time\" and made memory a central theme?",
       "optionsSv": ["Marcel Proust", "Albert Camus", "Jean-Paul Sartre", "Gustave Flaubert"],
@@ -230,7 +230,7 @@
     {
       "id": "ent_5",
       "category": "entertainment",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken tysk kompositör skrev \"Wozzeck\" och \"Lulu\" och utvecklade tolvtonstekniken?",
       "textEn": "Which German composer wrote \"Wozzeck\" and \"Lulu\" and developed the twelve-tone technique?",
       "optionsSv": ["Alban Berg", "Arnold Schönberg", "Anton Webern", "Richard Strauss"],
@@ -242,7 +242,7 @@
     {
       "id": "ent_6",
       "category": "entertainment",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken rysk kompositör skrev \"Rite of Spring\" som orsakade upplopp vid premiären 1913 i Paris?",
       "textEn": "Which Russian composer wrote \"The Rite of Spring\" which caused riots at its premiere in Paris in 1913?",
       "optionsSv": ["Igor Stravinsky", "Sergej Prokofjev", "Dmitrij Sjostakovitj", "Modest Musorgskij"],
@@ -254,7 +254,7 @@
     {
       "id": "ent_7",
       "category": "entertainment",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken tysk filosof skrev \"Sein und Zeit\" och introducerade begreppet Dasein i existentiell filosofi?",
       "textEn": "Which German philosopher wrote \"Being and Time\" and introduced the concept of Dasein in existential philosophy?",
       "optionsSv": ["Martin Heidegger", "Edmund Husserl", "Karl Jaspers", "Hannah Arendt"],
@@ -266,7 +266,7 @@
     {
       "id": "ent_8",
       "category": "entertainment",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken fransk filosof skrev \"Disciplin och straff\" och analyserade maktens mekanismer i samhället?",
       "textEn": "Which French philosopher wrote \"Discipline and Punish\" and analyzed mechanisms of power in society?",
       "optionsSv": ["Michel Foucault", "Jean-Paul Sartre", "Jacques Derrida", "Gilles Deleuze"],
@@ -278,7 +278,7 @@
     {
       "id": "ent_9",
       "category": "entertainment",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken svensk regissör skapade \"Fanny och Alexander\" och \"Viskningar och rop\" och är känd för sin psykologiska djup?",
       "textEn": "Which Swedish director created \"Fanny and Alexander\" and \"Cries and Whispers\" and is known for his psychological depth?",
       "optionsSv": ["Ingmar Bergman", "Lukas Moodysson", "Ruben Östlund", "Roy Andersson"],
@@ -290,7 +290,7 @@
     {
       "id": "ent_10",
       "category": "entertainment",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken japansk regissör skapade \"Sju samurajer\" och \"Rashomon\" och introducerade japansk film för västvärlden?",
       "textEn": "Which Japanese director created \"Seven Samurai\" and \"Rashomon\" and introduced Japanese cinema to the Western world?",
       "optionsSv": ["Akira Kurosawa", "Yasujirō Ozu", "Kenji Mizoguchi", "Hiroshi Inagaki"],
@@ -302,7 +302,7 @@
     {
       "id": "ent_11",
       "category": "entertainment",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken amerikansk författare skrev \"Lolita\" och \"Pale Fire\" och är känd för sin komplexa språkbehandling?",
       "textEn": "Which American author wrote \"Lolita\" and \"Pale Fire\" and is known for his complex language handling?",
       "optionsSv": ["Vladimir Nabokov", "Thomas Pynchon", "Don DeLillo", "David Foster Wallace"],
@@ -314,7 +314,7 @@
     {
       "id": "ent_12",
       "category": "entertainment",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken argentinsk författare skrev \"Fiktioner\" och \"Aleph\" och skapade komplexa labyrinter av verklighet och fantasi?",
       "textEn": "Which Argentine author wrote \"Fictions\" and \"The Aleph\" and created complex labyrinths of reality and fantasy?",
       "optionsSv": ["Jorge Luis Borges", "Julio Cortázar", "Ernesto Sabato", "Adolfo Bioy Casares"],
@@ -326,7 +326,7 @@
     {
       "id": "ent_13",
       "category": "entertainment",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken tysk kompositör skrev \"Musikalisches Opfer\" och \"Kunst der Fuge\" och är känd som barockens mästare?",
       "textEn": "Which German composer wrote \"The Musical Offering\" and \"The Art of Fugue\" and is known as the master of the Baroque?",
       "optionsSv": ["Johann Sebastian Bach", "Georg Friedrich Händel", "Antonio Vivaldi", "Henry Purcell"],
@@ -338,7 +338,7 @@
     {
       "id": "ent_14",
       "category": "entertainment",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken österrikisk kompositör skrev \"Wozzeck\" och \"Lulu\" och var elev till Arnold Schönberg?",
       "textEn": "Which Austrian composer wrote \"Wozzeck\" and \"Lulu\" and was a student of Arnold Schoenberg?",
       "optionsSv": ["Alban Berg", "Anton Webern", "Gustav Mahler", "Arnold Schönberg"],
@@ -350,7 +350,7 @@
     {
       "id": "ent_15",
       "category": "entertainment",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken fransk filosof skrev \"Det andra könet\" och grundade modern feministisk teori?",
       "textEn": "Which French philosopher wrote \"The Second Sex\" and founded modern feminist theory?",
       "optionsSv": ["Simone de Beauvoir", "Simone Weil", "Hélène Cixous", "Julia Kristeva"],
@@ -362,7 +362,7 @@
     {
       "id": "nearf_1",
       "category": "nearFar",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket land i Centralasien har huvudstaden Bishkek och var en del av Sovjetunionen fram till 1991?",
       "textEn": "Which Central Asian country has the capital Bishkek and was part of the Soviet Union until 1991?",
       "optionsSv": ["Kirgizistan", "Tadzjikistan", "Turkmenistan", "Uzbekistan"],
@@ -374,7 +374,7 @@
     {
       "id": "nearf_2",
       "category": "nearFar",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken stad i Etiopien ligger på 2 400 meters höjd och är en av världens högst belägna huvudstäder?",
       "textEn": "Which city in Ethiopia lies at 2,400 meters altitude and is one of the world's highest capitals?",
       "optionsSv": ["Addis Abeba", "Nairobi", "La Paz", "Quito"],
@@ -386,7 +386,7 @@
     {
       "id": "nearf_3",
       "category": "nearFar",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket land i Västafrika har huvudstaden Ouagadougou och var tidigare känt som Övre Volta?",
       "textEn": "Which West African country has the capital Ouagadougou and was formerly known as Upper Volta?",
       "optionsSv": ["Burkina Faso", "Mali", "Niger", "Togo"],
@@ -398,7 +398,7 @@
     {
       "id": "nearf_4",
       "category": "nearFar",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket land i Sydostasien består av två huvudöar, Luzon och Mindanao, och har över 7 000 öar totalt?",
       "textEn": "Which Southeast Asian country consists of two main islands, Luzon and Mindanao, and has over 7,000 islands total?",
       "optionsSv": ["Filippinerna", "Indonesien", "Malaysia", "Thailand"],
@@ -410,7 +410,7 @@
     {
       "id": "nearf_5",
       "category": "nearFar",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket land i Sydamerika har tre huvudstäder: Sucre (konstitutionell), La Paz (regeringssäte) och Cochabamba?",
       "textEn": "Which South American country has three capitals: Sucre (constitutional), La Paz (government seat) and Cochabamba?",
       "optionsSv": ["Bolivia", "Paraguay", "Ecuador", "Uruguay"],
@@ -422,7 +422,7 @@
     {
       "id": "nearf_6",
       "category": "nearFar",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken stad i Marocko är känd för sin blå färgade medina och ligger i Rifbergen?",
       "textEn": "Which city in Morocco is famous for its blue-painted medina and is located in the Rif Mountains?",
       "optionsSv": ["Chefchaouen", "Marrakech", "Fes", "Casablanca"],
@@ -434,7 +434,7 @@
     {
       "id": "nearf_7",
       "category": "nearFar",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket land i Östafrika har huvudstaden Dodoma men har Dar es Salaam som största stad och kommersiella centrum?",
       "textEn": "Which East African country has the capital Dodoma but has Dar es Salaam as its largest city and commercial center?",
       "optionsSv": ["Tanzania", "Kenya", "Uganda", "Rwanda"],
@@ -446,7 +446,7 @@
     {
       "id": "nearf_8",
       "category": "nearFar",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket land i Kaukasus har huvudstaden Jerevan och var det första landet som antog kristendomen som statsreligion?",
       "textEn": "Which country in the Caucasus has the capital Yerevan and was the first country to adopt Christianity as the state religion?",
       "optionsSv": ["Armenien", "Georgien", "Azerbajdzjan", "Turkiet"],
@@ -458,7 +458,7 @@
     {
       "id": "nearf_9",
       "category": "nearFar",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket land i Västafrika var tidigare känt som Dahomey och är känt för sina historiska amazonsoldater?",
       "textEn": "Which West African country was formerly known as Dahomey and is famous for its historical Amazon warriors?",
       "optionsSv": ["Benin", "Togo", "Ghana", "Nigeria"],
@@ -470,7 +470,7 @@
     {
       "id": "nearf_10",
       "category": "nearFar",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket land i Sydasien har huvudstaden Thimphu och mäter lycka med bruttonationallycka (GNH) istället för BNP?",
       "textEn": "Which South Asian country has the capital Thimphu and measures happiness with Gross National Happiness (GNH) instead of GDP?",
       "optionsSv": ["Bhutan", "Nepal", "Bangladesh", "Sri Lanka"],
@@ -482,7 +482,7 @@
     {
       "id": "nearf_11",
       "category": "nearFar",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket land i Oceanien består av över 300 öar och har huvudstaden Suva?",
       "textEn": "Which country in Oceania consists of over 300 islands and has the capital Suva?",
       "optionsSv": ["Fiji", "Vanuatu", "Samoa", "Tonga"],
@@ -494,7 +494,7 @@
     {
       "id": "nearf_12",
       "category": "nearFar",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket land i Centralasien har huvudstaden Dushanbe och är det minsta landet i regionen?",
       "textEn": "Which Central Asian country has the capital Dushanbe and is the smallest country in the region?",
       "optionsSv": ["Tadzjikistan", "Kirgizistan", "Turkmenistan", "Uzbekistan"],
@@ -506,7 +506,7 @@
     {
       "id": "nearf_13",
       "category": "nearFar",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket land i Västafrika har huvudstaden Banjul och är det minsta landet på det afrikanska fastlandet?",
       "textEn": "Which West African country has the capital Banjul and is the smallest country on the African mainland?",
       "optionsSv": ["Gambia", "Guinea-Bissau", "Sierra Leone", "Liberia"],
@@ -518,7 +518,7 @@
     {
       "id": "nearf_14",
       "category": "nearFar",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket land i Karibien har huvudstaden Port-au-Prince och var världens första svarta republik?",
       "textEn": "Which Caribbean country has the capital Port-au-Prince and was the world's first black republic?",
       "optionsSv": ["Haiti", "Dominikanska republiken", "Jamaica", "Trinidad och Tobago"],
@@ -530,7 +530,7 @@
     {
       "id": "nearf_15",
       "category": "nearFar",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket land i Sydostasien har huvudstaden Vientiane och är det enda landet i regionen utan kustlinje?",
       "textEn": "Which Southeast Asian country has the capital Vientiane and is the only landlocked country in the region?",
       "optionsSv": ["Laos", "Kambodja", "Myanmar", "Thailand"],
@@ -542,7 +542,7 @@
     {
       "id": "sport_1",
       "category": "sportMisc",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken tennisspelare har vunnit flest Grand Slam-titlar i singel bland kvinnor?",
       "textEn": "Which tennis player has won the most Grand Slam singles titles among women?",
       "optionsSv": ["Margaret Court", "Serena Williams", "Steffi Graf", "Martina Navratilova"],
@@ -554,7 +554,7 @@
     {
       "id": "sport_2",
       "category": "sportMisc",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken schackspelare höll världsmästartiteln längst tid, från 1894 till 1921?",
       "textEn": "Which chess player held the world championship title the longest, from 1894 to 1921?",
       "optionsSv": ["Emanuel Lasker", "Wilhelm Steinitz", "José Capablanca", "Alexander Alekhine"],
@@ -566,7 +566,7 @@
     {
       "id": "sport_3",
       "category": "sportMisc",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket år arrangerades de första moderna olympiska spelen i Aten?",
       "textEn": "In which year were the first modern Olympic Games held in Athens?",
       "optionsSv": ["1896", "1900", "1904", "1908"],
@@ -578,7 +578,7 @@
     {
       "id": "sport_4",
       "category": "sportMisc",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken svensk orienterare har vunnit flest individuella VM-guld i orientering?",
       "textEn": "Which Swedish orienteer has won the most individual World Championship gold medals in orienteering?",
       "optionsSv": ["Thierry Gueorgiou", "Simone Niggli", "Daniel Hubmann", "Tove Alexandersson"],
@@ -590,7 +590,7 @@
     {
       "id": "sport_5",
       "category": "sportMisc",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken schackspelare var den första att vinna världsmästerskapet i schack tre gånger i rad?",
       "textEn": "Which chess player was the first to win the World Chess Championship three times in a row?",
       "optionsSv": ["Wilhelm Steinitz", "Emanuel Lasker", "José Capablanca", "Alexander Alekhine"],
@@ -602,7 +602,7 @@
     {
       "id": "sport_6",
       "category": "sportMisc",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket år arrangerades de första paralympiska spelen i Rom?",
       "textEn": "In which year were the first Paralympic Games held in Rome?",
       "optionsSv": ["1960", "1948", "1952", "1964"],
@@ -614,7 +614,7 @@
     {
       "id": "sport_7",
       "category": "sportMisc",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken schackspelare var den första att nå en ELO-rating över 2800?",
       "textEn": "Which chess player was the first to reach an ELO rating over 2800?",
       "optionsSv": ["Garry Kasparov", "Bobby Fischer", "Anatoly Karpov", "Vladimir Kramnik"],
@@ -626,7 +626,7 @@
     {
       "id": "sport_8",
       "category": "sportMisc",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken tennisspelare har vunnit flest Grand Slam-titlar i singel bland män?",
       "textEn": "Which tennis player has won the most Grand Slam singles titles among men?",
       "optionsSv": ["Novak Djokovic", "Roger Federer", "Rafael Nadal", "Pete Sampras"],
@@ -638,7 +638,7 @@
     {
       "id": "sport_9",
       "category": "sportMisc",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket brädspel går ut på att placera ord horisontellt och vertikalt med hjälp av bokstavsbrickor?",
       "textEn": "Which board game involves placing words horizontally and vertically using letter tiles?",
       "optionsSv": ["Scrabble", "Monopol", "Schack", "Risk"],
@@ -650,7 +650,7 @@
     {
       "id": "sport_10",
       "category": "sportMisc",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken schackspelare var den första att vinna världsmästerskapet i schack efter att ha besegrat Garry Kasparov?",
       "textEn": "Which chess player was the first to win the World Chess Championship after defeating Garry Kasparov?",
       "optionsSv": ["Vladimir Kramnik", "Viswanathan Anand", "Veselin Topalov", "Rustam Kasimdzhanov"],
@@ -662,7 +662,7 @@
     {
       "id": "sport_11",
       "category": "sportMisc",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilket land har vunnit flest OS-medaljer totalt i olympiska sommarspelens historia?",
       "textEn": "Which country has won the most total medals in Summer Olympic Games history?",
       "optionsSv": ["USA", "Sovjetunionen", "Storbritannien", "Tyskland"],
@@ -674,7 +674,7 @@
     {
       "id": "sport_12",
       "category": "sportMisc",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken schackspelare var den första att vinna världsmästerskapet i schack som rysk spelare efter Sovjetunionens fall?",
       "textEn": "Which chess player was the first to win the World Chess Championship as a Russian player after the fall of the Soviet Union?",
       "optionsSv": ["Vladimir Kramnik", "Garry Kasparov", "Anatoly Karpov", "Alexander Khalifman"],
@@ -686,7 +686,7 @@
     {
       "id": "sport_13",
       "category": "sportMisc",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken schackspelare var den första att vinna världsmästerskapet i schack som indier?",
       "textEn": "Which chess player was the first to win the World Chess Championship as an Indian?",
       "optionsSv": ["Viswanathan Anand", "Pentala Harikrishna", "Krishnan Sasikiran", "Abhijeet Gupta"],
@@ -698,7 +698,7 @@
     {
       "id": "sport_14",
       "category": "sportMisc",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken schackspelare var den första att vinna världsmästerskapet i schack som kines?",
       "textEn": "Which chess player was the first to win the World Chess Championship as a Chinese?",
       "optionsSv": ["Ding Liren", "Wang Hao", "Yu Yangyi", "Wei Yi"],
@@ -710,7 +710,7 @@
     {
       "id": "sport_15",
       "category": "sportMisc",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken schackspelare var den första att vinna världsmästerskapet i schack som norrman?",
       "textEn": "Which chess player was the first to win the World Chess Championship as a Norwegian?",
       "optionsSv": ["Magnus Carlsen", "Simen Agdestein", "Jon Ludvig Hammer", "Aryan Tari"],
@@ -722,7 +722,7 @@
     {
       "id": "scitech_1",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker formulerade den s.k. oändlighetsparadoxen och visade att det finns olika storlekar av oändlighet?",
       "textEn": "Which mathematician formulated the infinity paradox and showed that there are different sizes of infinity?",
       "optionsSv": ["Georg Cantor", "Kurt Gödel", "David Hilbert", "Bertrand Russell"],
@@ -734,7 +734,7 @@
     {
       "id": "scitech_2",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken fysiker formulerade osäkerhetsprincipen som säger att man inte kan känna till både en partikels position och rörelsemängd exakt samtidigt?",
       "textEn": "Which physicist formulated the uncertainty principle stating that you cannot know both a particle's position and momentum exactly at the same time?",
       "optionsSv": ["Werner Heisenberg", "Niels Bohr", "Erwin Schrödinger", "Max Planck"],
@@ -746,7 +746,7 @@
     {
       "id": "scitech_3",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken upptäckt gjorde Rosalind Franklin som var avgörande för att förstå DNA:s struktur?",
       "textEn": "What discovery did Rosalind Franklin make that was crucial for understanding DNA's structure?",
       "optionsSv": ["Röntgenkristallografi av DNA", "DNA-sekvensering", "PCR-teknik", "Genmanipulation"],
@@ -758,7 +758,7 @@
     {
       "id": "scitech_4",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker bevisade att det finns oändligt många primtal genom ett bevis som använder motsägelse?",
       "textEn": "Which mathematician proved that there are infinitely many prime numbers through a proof using contradiction?",
       "optionsSv": ["Euklides", "Eratosthenes", "Archimedes", "Pythagoras"],
@@ -770,7 +770,7 @@
     {
       "id": "scitech_5",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker formulerade Fermats sista sats, som inte bevisades förrän 1994 av Andrew Wiles?",
       "textEn": "Which mathematician formulated Fermat's Last Theorem, which was not proven until 1994 by Andrew Wiles?",
       "optionsSv": ["Pierre de Fermat", "Leonhard Euler", "Carl Friedrich Gauss", "Henri Poincaré"],
@@ -782,7 +782,7 @@
     {
       "id": "scitech_6",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker bevisade att det finns oändligt många primtalstvillingar genom att visa att summan av deras reciproker divergerar?",
       "textEn": "Which mathematician proved that there are infinitely many twin primes by showing that the sum of their reciprocals diverges?",
       "optionsSv": ["Viggo Brun", "Paul Erdős", "Terence Tao", "Yitang Zhang"],
@@ -794,7 +794,7 @@
     {
       "id": "scitech_7",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken fysiker formulerade Schrödinger-ekvationen som beskriver hur kvantmekaniska system utvecklas över tid?",
       "textEn": "Which physicist formulated the Schrödinger equation that describes how quantum mechanical systems evolve over time?",
       "optionsSv": ["Erwin Schrödinger", "Werner Heisenberg", "Niels Bohr", "Max Planck"],
@@ -806,7 +806,7 @@
     {
       "id": "scitech_8",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker bevisade att det finns oändligt många primtal genom att använda Riemanns zetafunktion?",
       "textEn": "Which mathematician proved that there are infinitely many prime numbers by using the Riemann zeta function?",
       "optionsSv": ["Leonhard Euler", "Bernhard Riemann", "Carl Friedrich Gauss", "Pierre de Fermat"],
@@ -818,7 +818,7 @@
     {
       "id": "scitech_9",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker formulerade Riemannhypotesen, ett av matematikens sju millenniumproblem?",
       "textEn": "Which mathematician formulated the Riemann Hypothesis, one of mathematics' seven Millennium Problems?",
       "optionsSv": ["Bernhard Riemann", "Leonhard Euler", "Carl Friedrich Gauss", "Henri Poincaré"],
@@ -830,7 +830,7 @@
     {
       "id": "scitech_10",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker bevisade att det finns oändligt många primtal genom att använda analytisk talteori?",
       "textEn": "Which mathematician proved that there are infinitely many prime numbers by using analytic number theory?",
       "optionsSv": ["Leonhard Euler", "Bernhard Riemann", "Carl Friedrich Gauss", "Pierre de Fermat"],
@@ -842,7 +842,7 @@
     {
       "id": "scitech_11",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker bevisade att det finns oändligt många primtal genom att använda primtalssatsen?",
       "textEn": "Which mathematician proved that there are infinitely many prime numbers by using the prime number theorem?",
       "optionsSv": ["Jacques Hadamard", "Charles de la Vallée Poussin", "Bernhard Riemann", "Carl Friedrich Gauss"],
@@ -854,7 +854,7 @@
     {
       "id": "scitech_12",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker bevisade att det finns oändligt många primtal genom att använda Dirichlets sats om aritmetiska följder?",
       "textEn": "Which mathematician proved that there are infinitely many prime numbers by using Dirichlet's theorem on arithmetic progressions?",
       "optionsSv": ["Peter Gustav Lejeune Dirichlet", "Carl Friedrich Gauss", "Leonhard Euler", "Bernhard Riemann"],
@@ -866,7 +866,7 @@
     {
       "id": "scitech_13",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker bevisade att det finns oändligt många primtal genom att använda Green-Tao-satsen?",
       "textEn": "Which mathematician proved that there are infinitely many prime numbers by using the Green-Tao theorem?",
       "optionsSv": ["Ben Green och Terence Tao", "Andrew Wiles", "Grigori Perelman", "Yitang Zhang"],
@@ -878,7 +878,7 @@
     {
       "id": "scitech_14",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker bevisade att det finns oändligt många primtal genom att använda Zhangs sats om primtalstvillingar?",
       "textEn": "Which mathematician proved that there are infinitely many prime numbers by using Zhang's theorem on twin primes?",
       "optionsSv": ["Yitang Zhang", "Terence Tao", "Andrew Wiles", "Grigori Perelman"],
@@ -890,7 +890,7 @@
     {
       "id": "scitech_15",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker bevisade att det finns oändligt många primtal genom att använda Euklides bevis?",
       "textEn": "Which mathematician proved that there are infinitely many prime numbers by using Euclid's proof?",
       "optionsSv": ["Euklides", "Eratosthenes", "Archimedes", "Pythagoras"],
@@ -902,7 +902,7 @@
     {
       "id": "scitech_16",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken fysiker formulerade relativitetsteorin och visade att tid och rum är relativt?",
       "textEn": "Which physicist formulated the theory of relativity and showed that time and space are relative?",
       "optionsSv": ["Albert Einstein", "Isaac Newton", "Niels Bohr", "Max Planck"],
@@ -914,7 +914,7 @@
     {
       "id": "scitech_17",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker bevisade att det finns oändligt många primtal genom att använda Eulers produktformel för zetafunktionen?",
       "textEn": "Which mathematician proved that there are infinitely many prime numbers by using Euler's product formula for the zeta function?",
       "optionsSv": ["Leonhard Euler", "Bernhard Riemann", "Carl Friedrich Gauss", "Pierre de Fermat"],
@@ -926,7 +926,7 @@
     {
       "id": "scitech_18",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker bevisade att det finns oändligt många primtal genom att använda analytisk fortsättning av zetafunktionen?",
       "textEn": "Which mathematician proved that there are infinitely many prime numbers by using analytic continuation of the zeta function?",
       "optionsSv": ["Bernhard Riemann", "Leonhard Euler", "Carl Friedrich Gauss", "Pierre de Fermat"],
@@ -938,7 +938,7 @@
     {
       "id": "scitech_19",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker bevisade att det finns oändligt många primtal genom att använda primtalssatsen och analytisk talteori?",
       "textEn": "Which mathematician proved that there are infinitely many prime numbers by using the prime number theorem and analytic number theory?",
       "optionsSv": ["Jacques Hadamard", "Charles de la Vallée Poussin", "Bernhard Riemann", "Carl Friedrich Gauss"],
@@ -950,7 +950,7 @@
     {
       "id": "scitech_20",
       "category": "scienceTech",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "textSv": "Vilken matematiker bevisade att det finns oändligt många primtal genom att använda Dirichlets L-funktioner?",
       "textEn": "Which mathematician proved that there are infinitely many prime numbers by using Dirichlet's L-functions?",
       "optionsSv": ["Peter Gustav Lejeune Dirichlet", "Carl Friedrich Gauss", "Leonhard Euler", "Bernhard Riemann"],
