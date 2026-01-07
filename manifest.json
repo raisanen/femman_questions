@@ -8,6 +8,8 @@
         "gemini_questions_1.json",
         "gemini_questions_2.json",
         "gemini_questions_3.json",
+        "gemini_questions_4.json",
+        "gemini_questions_5.json",
         "gpt-4.1_questions.json",
         "gpt-5_questions.json",
         "gpt-5.2_questions.json"
