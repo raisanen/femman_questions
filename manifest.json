@@ -20,6 +20,7 @@
         "gemini_questions_9.json",
         "gpt-4.1_questions.json",
         "gpt-5_questions.json",
-        "gpt-5.2_questions.json"
+        "gpt-5.2_questions.json",
+        "gpt-5-mini_questions.json"
     ]
 }
