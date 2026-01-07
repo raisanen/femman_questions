@@ -1,7 +1,7 @@
 {
     "version": "1.0",
     "files": [
-        "questions.json",
-        "claude_questions_1.json"
+        "claude_questions_1.json",
+        "gemini_questions_1.json"
     ]
 }
