@@ -2,6 +2,7 @@
     "version": "1.0",
     "files": [
         "claude_questions_1.json",
+        "claude_questions_2.json",
         "gemini_questions_1.json",
         "gpt-5_questions_1.json"
     ]
