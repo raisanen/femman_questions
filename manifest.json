@@ -3,6 +3,7 @@
     "files": [
         "claude_questions_1.json",
         "claude_questions_2.json",
+        "composer_questions_1.json",
         "gemini_questions_1.json",
         "gemini_questions_2.json",
         "gpt-4.1_questions.json",
