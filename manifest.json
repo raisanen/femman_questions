@@ -5,8 +5,8 @@
         "claude_questions_2.json",
         "gemini_questions_1.json",
         "gemini_questions_2.json",
-        "gpt-4.1_questions_1.json",
-        "gpt-5_questions_1.json",
-        "gpt-5.2_questions_1.json"
+        "gpt-4.1_questions.json",
+        "gpt-5_questions.json",
+        "gpt-5.2_questions.json"
     ]
 }
